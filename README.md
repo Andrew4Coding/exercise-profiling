@@ -1,6 +1,5 @@
 # Performance Profiling Report
 
-## Student Information
 - **Name**: Andrew Devito Aryo
 - **NPM**: 2306152494
 - **Class**: Adpro-A
